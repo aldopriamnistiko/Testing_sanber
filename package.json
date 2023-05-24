@@ -1,0 +1,22 @@
+{
+  "name": "testing_sanber",
+  "version": "1.0.0",
+  "description": "Latihan testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldopriamnistiko/Testing_sanber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldopriamnistiko/Testing_sanber/issues"
+  },
+  "homepage": "https://github.com/aldopriamnistiko/Testing_sanber#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
