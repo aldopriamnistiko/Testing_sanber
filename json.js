@@ -20,3 +20,5 @@ function printKendaraan(data){
 module.exports = new printKendaraan(data);
 
 console.log(response.aset.reksadana)
+console.log(response.aset.gender)
+console.log(response.aset.nomortelp)
